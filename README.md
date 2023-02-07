@@ -1,2 +1,2 @@
 # git-practice
-Project created by Jonathan and Juan Pablo "CHITO" Aviña
+Repositiorio de practica de git y github
